@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{1DBDD19C-00FA-4601-9F0E-7F53FF69C898}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomFunction1D", "CustomFunction1D\CustomFunction1D.csproj", "{549C219A-0F84-4D65-9167-1FA428F3C5CF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomFunction2D", "CustomFunction2D\CustomFunction2D.csproj", "{0988CEBA-925F-4C87-90BF-239BEFB9EAAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfCondition", "IfCondition\IfCondition.csproj", "{A7A2A539-99FC-4008-BD43-ECA09287AFDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackScholesSensitivities", "BlackScholesSensitivities\BlackScholesSensitivities.csproj", "{FB228053-091B-4569-8186-9A7BD7E06DCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonteCarloSensitivities", "MonteCarloSensitivities\MonteCarloSensitivities.csproj", "{CAFCC2E6-EAF4-4505-8E1D-34586DF270CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DBDD19C-00FA-4601-9F0E-7F53FF69C898}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DBDD19C-00FA-4601-9F0E-7F53FF69C898}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DBDD19C-00FA-4601-9F0E-7F53FF69C898}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DBDD19C-00FA-4601-9F0E-7F53FF69C898}.Release|Any CPU.Build.0 = Release|Any CPU
+		{549C219A-0F84-4D65-9167-1FA428F3C5CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{549C219A-0F84-4D65-9167-1FA428F3C5CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{549C219A-0F84-4D65-9167-1FA428F3C5CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{549C219A-0F84-4D65-9167-1FA428F3C5CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0988CEBA-925F-4C87-90BF-239BEFB9EAAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0988CEBA-925F-4C87-90BF-239BEFB9EAAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0988CEBA-925F-4C87-90BF-239BEFB9EAAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0988CEBA-925F-4C87-90BF-239BEFB9EAAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7A2A539-99FC-4008-BD43-ECA09287AFDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7A2A539-99FC-4008-BD43-ECA09287AFDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7A2A539-99FC-4008-BD43-ECA09287AFDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7A2A539-99FC-4008-BD43-ECA09287AFDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB228053-091B-4569-8186-9A7BD7E06DCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB228053-091B-4569-8186-9A7BD7E06DCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB228053-091B-4569-8186-9A7BD7E06DCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB228053-091B-4569-8186-9A7BD7E06DCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAFCC2E6-EAF4-4505-8E1D-34586DF270CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAFCC2E6-EAF4-4505-8E1D-34586DF270CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAFCC2E6-EAF4-4505-8E1D-34586DF270CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAFCC2E6-EAF4-4505-8E1D-34586DF270CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E951D22-EA62-4A8D-BD3D-64AFC4D5FDC0}
+	EndGlobalSection
+EndGlobal
